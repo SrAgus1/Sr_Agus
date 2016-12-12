@@ -1,0 +1,41 @@
+Spawn:
+  x: 0
+  y: 0
+  z: 0
+  world: null
+winner:
+  x: 0
+  y: 0
+  z: 0
+  world: null   
+Premio:
+  material: 276
+  enchant: 16
+  enchantlevel: 2
+  material1: 310
+  enchant1: 0
+  enchantlevel1: 1
+  material2: 311
+  enchant2: 0
+  enchantlevel2: 1
+  material3: 312
+  enchant3: 0
+  enchantlevel3: 1
+  material4: 313
+  enchant4: 0
+  enchantlevel4: 1
+  material5: 
+  enchant5: 
+  enchantlevel5:
+  material6: 
+  enchant6: 
+  enchantlevel6: 
+  material7: 
+  enchant7: 
+  enchantlevel7: 
+  material8:
+  enchant8: 
+  enchantlevel8:
+  material9: 
+  enchant9: 
+  enchantlevel9: 
